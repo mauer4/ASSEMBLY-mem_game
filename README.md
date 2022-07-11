@@ -16,7 +16,7 @@ The project is written completely in 8051 Assembly for the AT89LP 40 DIP u-proce
 
 **Game Rules:**
 
-- Press the "game start" button to start the game
+- Press the **"game start"** button to start the game
 - Listen to the sequence of sounds that come out of the speakers (Cow, Frog, Sheep or DJ-Khaled sounds)
 - Wait for the screen to show the “Start Round” message
 - **Press the sensors** in the same order as the sounds were played (Cow, Frog, Sheep or DJ-Khaled sensors)
