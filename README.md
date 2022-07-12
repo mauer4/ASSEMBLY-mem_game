@@ -24,3 +24,6 @@ The project is written completely in 8051 Assembly for the AT89LP 40 DIP u-proce
 - If you are **unsuccessful** in replicating the chain: it is **game over** for you.
 - If you **pass level 15 - you win the game!**
 - You can press the start game
+
+<p align="center"><img src="https://user-images.githubusercontent.com/89616796/178293026-b8374259-d6e5-465e-b795-ed96af0089ba.jpg" title="Circuitry" width="75%" height="75%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/89616796/178294725-0feee9bd-eb5b-40d2-a6ef-765767d76673.jpg" title="game view" width="75%" height="75%"></p>
