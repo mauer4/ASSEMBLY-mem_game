@@ -4,6 +4,8 @@
 This project was done during course ELEC 291 at UBC (University of British Columbia) in February 2022.
 The project is written completely in 8051 Assembly for the AT89LP 40 DIP u-processor.
 
+### ** add nice photos of circuit and board
+
 **Features:**
 
 - [ ]  All project code and functions written in 8051 **Assembly**
@@ -15,6 +17,8 @@ The project is written completely in 8051 Assembly for the AT89LP 40 DIP u-proce
 - Low-level assembly code writing requires great understanding of HW/SW interface. Initializing different internal clock, SPI hardware, DAC, LED screens, and configuring interrupts.
 - Writing a multi-state game in low-level assembly is extremely long and complicated. Debugging tools are non-existent and the process is long
 
+### ** add hardware and software diagrams
+
 **Game Rules:**
 
 - Press the **"game start"** button to start the game
@@ -25,6 +29,8 @@ The project is written completely in 8051 Assembly for the AT89LP 40 DIP u-proce
 - If you are **unsuccessful** in replicating the chain: it is **game over** for you.
 - If you **pass level 15 - you win the game!**
 - You can press the start game
+
+### ** add photos of state diagram
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89616796/178293026-b8374259-d6e5-465e-b795-ed96af0089ba.jpg" title="Circuitry" width="75%" height="75%"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/89616796/178294725-0feee9bd-eb5b-40d2-a6ef-765767d76673.jpg" title="game view" width="75%" height="75%"></p>
